@@ -83,7 +83,7 @@ export const PROJECTS = [
       "A responsive portfolio built with React, styled using Tailwind CSS, and animated with GSAP. Clean design, smooth transitions, and crafted to reflect my work and personality.",
     techStack: ["React", "TailWind CSS", "Gsap Animation"],
     imgSrc: project5,
-    link: "https://example-taskapp.com",
+    link: "https://venu-portfolio.onrender.com/",
   },
   {
     id: 6,
