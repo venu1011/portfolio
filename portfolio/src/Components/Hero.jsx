@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { useRef } from 'react'
 import {PROFILE} from '../constants'
 import { RiArrowRightUpLine } from '@remixicon/react'
-import david from '../assets/venu.jpg'
+import david from '../assets/v.jpg'
 import {gsap} from "gsap"
 
 const Hero = () => {
